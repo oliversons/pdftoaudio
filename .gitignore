@@ -1,0 +1,4 @@
+venv/
+venv/*
+converted_audio/
+converted/
